@@ -57,6 +57,7 @@ RegisterNumber:212224230051
 ![program](https://github.com/user-attachments/assets/77d620b2-16f9-4a94-9cdb-ce6a959b1b97)
 
 **RTL Schematic**
+
 ![simulation](https://github.com/user-attachments/assets/3b46987f-e65f-43c4-a683-30d3dd24cf8b)
 
 **Output/TIMING Waveform**
